@@ -7,8 +7,8 @@
 3. Run *jupyter lab*
 ## Shortcuts
 To view the notebooks in static form click the following image: 
-[![nbviewer](https://nbviewer.org/github/Anja585/ProgDAProject/tree/main/)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Anja585/ProgDAProject/tree/main/)
 
 To view the notebooks in dynamic form click the following image: 
-[![Binder](https://hub.gke2.mybinder.org/user/anja585-progdaproject-jh2jbe4c/lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/anja585-progdaproject-jh2jbe4c/lab)
 
